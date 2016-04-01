@@ -12,5 +12,9 @@ class GameState implements IRefreshGIU{
 	public GameState() {
 	}
 	
+	public void dummy() {
+		
+	}
+	
 }
 
